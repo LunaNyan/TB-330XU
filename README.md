@@ -1,5 +1,6 @@
 # TB-330FU
 This is description of my actions how I got more useful and comfortable experience with my tablet
+> 🍀 All of this is done on Linux. Good luck trying to pull that off on Windows or macOS.
 # DISCLAIMER
 Be careful what you do, if you don't know what this command will do, I advise you not to execute it. This is not a tutorial, just my experience, so again, be careful
 ### CREATE DUMP FROM YOUR DEVICE!
